@@ -1,0 +1,210 @@
+@media screen and (min-width:700px) and (max-width:1200px) {
+    .AboutParag {
+        width: 100%;
+    }
+
+    .AboutList {
+        width: 100%;
+    }
+
+    .numbers {
+        width: 50%;
+    }
+
+    .WContentChild {
+        width: 100%;
+    }
+
+    .ResumeColumn1 {
+        width: 70%;
+        margin: auto;
+    }
+
+    .ResumeColumn2 {
+        width: 80%;
+        margin: auto;
+    }
+
+    .Client {
+        width: 70%;
+    }
+
+    .ContactInfo {
+        width: 100%;
+        margin-top: 30px;
+
+    }
+
+    .ContactForm {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width:300px) and (max-width:800px) {
+    .AboutParag {
+        width: 100%;
+    }
+
+    .AboutList {
+        width: 100%;
+    }
+
+    .numbers {
+        width: 100%;
+    }
+
+    .WContentChild {
+        width: 100%;
+    }
+
+    .ResumeColumn1 {
+        width: 100%;
+        margin: auto;
+    }
+
+    .ResumeColumn2 {
+        width: 100%;
+        margin: auto;
+    }
+
+    .Client {
+        width: 100%;
+    }
+
+    .ContactInfo {
+        width: 100%;
+
+    }
+
+    .ContactForm {
+        width: 100%;
+    }
+
+    .navbar {
+        font-size: 0.7rem;
+        justify-content: space-around;
+    }
+
+    .links {
+        width: 60%;
+    }
+
+
+    .project {
+        width: 100%;
+    }
+
+    .PortfolioContent {
+        width: 100%;
+    }
+
+    .WhatImg {
+        width: 50%;
+    }
+
+    .WhatImg img {
+        width: 100%;
+
+    }
+
+    .LastSectionContent1 {
+        width: fit-content;
+    }
+
+    .LastSectionContent2 {
+        width: fit-content;
+    }
+
+    .FormContent input {
+        width: 100%;
+    }
+
+    textarea {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:850px) {
+    .HomeSection {
+
+        background-size: 100% 100%;
+
+    }
+
+    .AboutH2 {
+        font-size: 4rem;
+    }
+
+    .ResumeH2 {
+        font-size: 4rem;
+    }
+
+    .PortfolioH2 {
+        font-size: 4rem;
+    }
+
+    .ContactH2 {
+        font-size: 4rem;
+    }
+
+    .WhatH2 {
+        font-size: 4rem;
+    }
+
+    .ClientH2 {
+        font-size: 4rem;
+    }
+
+    .ResumeH2::before {
+        font-size: 1.5rem;
+    }
+
+    .ResumeH2::after {
+        right: 35%;
+    }
+
+    .AboutH2::before {
+        font-size: 1.5rem;
+    }
+
+    .AboutH2::after {
+        right: 35%;
+    }
+
+    .WhatH2::before {
+        font-size: 1.5rem;
+    }
+
+    .WhatH2::after {
+        right: 35%;
+    }
+
+    .PortfolioH2::before {
+        font-size: 1.5rem;
+    }
+
+    .PortfolioH2::after {
+        right: 40%;
+    }
+
+    .ClientH2::before {
+        font-size: 1.5rem;
+    }
+
+    .ClientH2::after {
+        right: 40%;
+    }
+
+    .ContactH2::before {
+        font-size: 1.5rem;
+    }
+
+    .ContactH2::after {
+        right: 35%;
+    }
+
+    .ProjectContent {
+        font-size: 0.8rem;
+    }
+
+}
